@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/TicTacToeUITests-primary.dia",
+    "emit-module-dependencies" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/TicTacToeUITests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/TicTacToeUITests-primary-emit-module.dia",
+    "pch" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/TicTacToeUITests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/TicTacToeUITests-primary.swiftdeps"
+  },
+  "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/TicTacToeUITests/GameFlowTests.swift" : {
+    "const-values" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.swiftconstvalues",
+    "dependencies" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.d",
+    "diagnostics" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.dia",
+    "index-unit-output-path" : "/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.o",
+    "llvm-bc" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.bc",
+    "object" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.o",
+    "swift-dependencies" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests.swiftdeps",
+    "swiftmodule" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToeUITests.build/Objects-normal/arm64/GameFlowTests~partial.swiftmodule"
+  }
+}

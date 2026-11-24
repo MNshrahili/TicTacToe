@@ -1,0 +1,71 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d607bdeb9b901b8e843dd77c489f471e2745ca5841da56e5e98ae64d2892f7b9"
+    },
+    {
+      "guid" : "d607bdeb9b901b8e843dd77c489f471ef21161c0c271ab441a68afb714c45a2b"
+    }
+  ],
+  "containerPath" : "/Users/aoosshrahili/Documents/ChatGPT/موقع علاقات حكومية/مشروع إكس أو/TicTacToe/TicTacToe.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos27.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/aoosshrahili/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aoosshrahili/Library/Developer/Xcode/DerivedData/TicTacToe-cbachyhzteasesactnbmrczzvekx/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aoosshrahili/Library/Developer/Xcode/DerivedData/TicTacToe-cbachyhzteasesactnbmrczzvekx/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "MacFamily20,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "27.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "MacFamily20,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008142-001029583A0BC01C",
+          "TARGET_DEVICE_MODEL" : "Mac17,3",
+          "TARGET_DEVICE_OS_VERSION" : "27.2.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "macosx",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.922.4 $(inherited)"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
